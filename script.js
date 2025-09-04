@@ -43,7 +43,7 @@ const menuItems = {
             description: 'Espresso with vanilla syrup, steamed milk, and caramel drizzle',
             price: '$5.25',
             rating: 4.6,
-            image: 'https://images.unsplash.com/photo-1601924643181-784218b07009?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            image: 'https://unsplash.com/photos/person-holding-brown-and-white-disposable-cup-ppfo82YF50g'
         }
     ],
     cold: [
@@ -52,7 +52,7 @@ const menuItems = {
             description: 'Smooth and refreshing 12-hour cold extraction',
             price: '$4.25',
             rating: 4.7,
-            image: 'https://images.unsplash.com/photo-1504753793650-d4a2b783c15e?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            image: 'https://unsplash.com/photos/selective-focus-photography-of-milk-pouring-on-shot-glass-HP4VFH70LMc'
         },
         {
             name: 'Iced Latte',
@@ -233,3 +233,4 @@ function init() {
 // Start the application when DOM is loaded
 
 document.addEventListener('DOMContentLoaded', init);
+
